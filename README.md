@@ -1,1 +1,1 @@
-# WEB-FOR-HOLODOS
+# Шаблон 
